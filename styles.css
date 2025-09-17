@@ -1,0 +1,17 @@
+body{
+color: #990000;
+background-color: #ADFFFF;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a{
+    color: #007500;
+}
+
+a:hover{
+    color: #673147;
+}
+
+a:visited{
+    color: #39008F;
+}
